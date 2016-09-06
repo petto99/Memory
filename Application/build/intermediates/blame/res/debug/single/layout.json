@@ -112,6 +112,10 @@
         "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_family.xml",
+        "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/src/main/res/layout/fragment_family.xml"
+    },
+    {
         "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
         "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_toolbar.xml"
     },
@@ -160,12 +164,20 @@
         "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_media_cancel_action.xml"
     },
     {
+        "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_friends.xml",
+        "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/src/main/res/layout/fragment_friends.xml"
+    },
+    {
         "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_menu_layout.xml"
     },
     {
         "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_teacher.xml",
+        "source": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/src/main/res/layout/fragment_teacher.xml"
     },
     {
         "merged": "/Users/appcreate40/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
