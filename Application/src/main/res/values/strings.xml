@@ -25,4 +25,9 @@
     <string name="action_websearch">Web search</string>
     <string name="app_not_available">Sorry, there\'s no web browser available</string>
     <string name="myname">디효닝</string>
+
+    <string name="menu_share">Share</string>
+    <string name="quote_1">HAPPY DAY.</string>
+    <string name="quote_2">How are you?</string>
+    <string name="quote_3">Thank you. GOD bless you.</string>
 </resources>
